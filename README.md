@@ -36,6 +36,7 @@ The official website is also not easily usable with a remote. If in the future a
 would be available, I will happilly abandonned this one.
 
 This application has been tested on a up-to-date Nvidia Shield TV 2017 version.
+
 For you Belgian users: I can confirm this application works great on the Proximus V7 Android TV Decoder, after sideloading it.
 
 This will allways be a free and open source app and will probably never be on Google Play.
