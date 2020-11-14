@@ -1,6 +1,7 @@
 # Race Control TV
 
-> This project is no longer maintained. I'm not subscribed to F1 TV anymore and have no use for this app. I used it for the last time to watch the 2020 Belgian Grand Prix (2020-08-30).
+> I'm not actively maintaining this release. I created this fork to fix the broken login in the 1.2.0 version.
+Massive thanks and credit to [Groggy](https://github.com/Groggy), for creating this app in the first place!
 
 Android TV application to watch content from [F1 TV](https://f1tv.formula1.com).
 
@@ -13,7 +14,7 @@ Application is not translated and only available in english.
 
 ## Install
 
-Latest APK can be downloaded [here](https://github.com/Groggy/race-control-tv/releases/latest).
+Latest APK can be downloaded [here](https://github.com/Sounddie/race-control-tv/releases/latest).
 
 ## Screenshots
 
@@ -45,3 +46,5 @@ Do what you want with it : use it or modify it.
 Thanks to all contributors of [f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) for their work on how to use the F1 TV API.
 
 Launcher icon and banner made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](http://www.flaticon.com/).
+
+Massive thanks to [Groggy](https://github.com/Groggy) for creating this application in the first place.
